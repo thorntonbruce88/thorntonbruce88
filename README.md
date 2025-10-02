@@ -5,12 +5,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/thorntonbruce88/Vulnerability-Management-Program-and-DISA-STIG-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/thorntonbruce88/Vulnerability-Management-Program-and-DISA-STIG-Implementation)**
+- **[Vulnerability Management Program Implementation](https://github.com/thorntonbruce88/Vulnerability-Management-Program-and-DISA-STIG-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario ](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
+- **[Threat Hunting Scenarios ](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
 
 <hr/>
 
