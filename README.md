@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenarios ](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
 
+## 🚨 Honey Pot Creation
+
+- **[Honey Pot Creation for SOC Home Lab ](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
+
 <hr/>
 
 ## 🤳 Connect With Me
