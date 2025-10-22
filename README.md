@@ -10,8 +10,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenarios](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
+- **[Official Cyber Range Capture The Flag Event: "Hide Your RDP." Password Spray Leads to Full Compromise](https://github.com/thorntonbruce88/Official-Cyber-Range-Event-Capture-The-Flag--Hide-Your-RDP-Password-Spray-Leads-to-Full-Compromise.)**
 - **[Threat Hunt Report: Family Member Compromise Leads to Unauthorized TOR Usage](https://github.com/thorntonbruce88/Threat-Hunt-Report-Family-Member-Compromise-Leads-to-Unauthorized-TOR-Usage/blob/main/Performing%20the%20Hunt.pdf)**
+- **[Threat Hunting Scenarios](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
+
 
 
 ## 🚨 Honey Pot Creation
