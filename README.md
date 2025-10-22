@@ -8,6 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability DISA/STIG Remediations (PowerShell and BASH)](https://github.com/thorntonbruce88/Vulnerability-Management-Program-and-DISA-STIG-Implementation)**
 - **[Vulnerability Management Program Implementation](https://github.com/thorntonbruce88/Vulnerability-Management-Program)**
 - **[Agent Based Monitoring in a Remote Device Utilizing a Windows 11 Virtual Machine](https://github.com/thorntonbruce88/DISA-STIG-Implementation/blob/main/Agent%20Based%20Monitoring%20in%20a%20Remote%20Device%20Utilizing%20a%20Windows%2011%20Virtual%20Machine.pdf)**
+- **[Agent Based Monitoring in a Remote Device Utilizing a Linux_Ubuntu Virtual Machine]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
