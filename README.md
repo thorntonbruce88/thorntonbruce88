@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Scenario 2: PowerShell Suspicious Web Request](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%202_%20PowerShell%20Suspicious%20Web%20Request%209_19_2025.pdf)**
 - **[Scenario 3: Potential Impossible Travel](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%203_%20Potential%20Impossible%20Travel%209_20_2025.pdf)**
 - **[Scenario 4: Excessive Resource Creation Deletion](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%204_%20Excessive%20Resource%20Creation%20_%20Deletion.pdf)**
-- **[Scenario 5: Threat Hunting Lab Suspected Data Exfiltration/Employee]()**
+- **[Scenario 5: Threat Hunting Lab Suspected Data Exfiltration/Employee](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Threat%20Hunting%20Lab%209_15_2025%20Scenario%203_%20Suspected%20Data%20Exfiltration%20Employee.pdf)**
 
 
 
