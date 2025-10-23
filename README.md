@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Official Cyber Range Capture The Flag Event: "Hide Your RDP." Password Spray Leads to Full Compromise](https://github.com/thorntonbruce88/Official-Cyber-Range-Event-Capture-The-Flag--Hide-Your-RDP-Password-Spray-Leads-to-Full-Compromise./blob/main/SOC%20Challenge_%20Virtual%20Machine%20Compromise%20Hide%20Your%20RDP_%20Password%20Spray%20Leads%20to%20Full%20CompromiseSOC%20Investigation%20Report%20%E2%80%94%20thseptbruce1.pdf)**
 - **[Threat Hunt Report: Family Member Compromise Leads to Unauthorized TOR Usage](https://github.com/thorntonbruce88/Threat-Hunt-Report-Family-Member-Compromise-Leads-to-Unauthorized-TOR-Usage/blob/main/Performing%20the%20Hunt.pdf)**
-- **[Scenario 4: Excessive Resource Creation Deletion]()**
+- **[Scenario 4: Excessive Resource Creation Deletion](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%204_%20Excessive%20Resource%20Creation%20_%20Deletion.pdf)**
 - **[Threat Hunting Labs, Etc...](https://github.com/thorntonbruce88/Cybersecurity-Labs)**
 
 
