@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Scenario 3: Potential Impossible Travel](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%203_%20Potential%20Impossible%20Travel%209_20_2025.pdf)**
 - **[Scenario 4: Excessive Resource Creation Deletion](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%204_%20Excessive%20Resource%20Creation%20_%20Deletion.pdf)**
 - **[Scenario 5: Threat Hunting Lab Suspected Data Exfiltration/Employee](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Threat%20Hunting%20Lab%209_15_2025%20Scenario%203_%20Suspected%20Data%20Exfiltration%20Employee.pdf)**
-- **[Scenario 6: Threat Hunting Lab Devices Exposed to the Internet]()**
+- **[Scenario 6: Threat Hunting Lab Devices Exposed to the Internet](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%206_%20Threat%20Hunting%20Lab%20Devices%20Exposed%20to%20the%20Internet.pdf)**
 
 
 
