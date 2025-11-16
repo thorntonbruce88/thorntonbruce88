@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[AI-driven SOC Analyst Created by Bruce Thornton: Investigation Scenario: Zero-Day Ransomware (PwnCrypt) Outbreak](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Investigation%20Scenario_%20Zero-Day%20Ransomware%20(PwnCrypt)%20Outbreak.pdf)**
-- **[Official Cyber Range Capture The Flag Event: "Threat Hunt 11/8 Investigation Report – Suspicious Activity on gab-intern-vm"]()**
+- **[Official Cyber Range Capture The Flag Event: "Threat Hunt 11/8 Investigation Report – Suspicious Activity on gab-intern-vm"](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Threat%20Hunt%2011_8%20Investigation%20Report%20%E2%80%93%20Suspicious%20Activity%20on%20gab-intern-vm.pdf)**
 - **[Official Cyber Range Capture The Flag Event: "Hide Your RDP." Password Spray Leads to Full Compromise](https://github.com/thorntonbruce88/Official-Cyber-Range-Event-Capture-The-Flag--Hide-Your-RDP-Password-Spray-Leads-to-Full-Compromise./blob/main/SOC%20Challenge_%20Virtual%20Machine%20Compromise%20Hide%20Your%20RDP_%20Password%20Spray%20Leads%20to%20Full%20CompromiseSOC%20Investigation%20Report%20%E2%80%94%20thseptbruce1.pdf)**
 - **[Threat Hunt Report: Family Member Compromise Leads to Unauthorized TOR Usage](https://github.com/thorntonbruce88/Threat-Hunt-Report-Family-Member-Compromise-Leads-to-Unauthorized-TOR-Usage/blob/main/Performing%20the%20Hunt.pdf)**
 - **[Scenario 1: Virtual Machine Brute Force Detection](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%201_%20Virtual%20Machine%20Brute%20Force%20Detection%209_17_2025.pdf)**
