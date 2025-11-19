@@ -26,9 +26,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 
-## 🚨 Honey Pot Creation
+## 🍯 Honey Pot Creation
 
 - **[Honey Pot Creation for SOC Home Lab ](https://github.com/thorntonbruce88/Honey-Pot-Creation-for-Home-Lab)**
+
+## 🔬 Home Lab
+- **[Network Segmentation & VLAN Implementation Summary for SOC Home Lab]()**
 
 <hr/>
 
