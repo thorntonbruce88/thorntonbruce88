@@ -17,14 +17,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Official Cyber Range Capture The Flag Event: "Threat Hunt 11/8 Investigation Report – Suspicious Activity on gab-intern-vm"](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Threat%20Hunt%2011_8%20Investigation%20Report%20%E2%80%93%20Suspicious%20Activity%20on%20gab-intern-vm.pdf)**
 - **[Official Cyber Range Capture The Flag Event: "Hide Your RDP." Password Spray Leads to Full Compromise](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/SOC%20Challenge_%20Virtual%20Machine%20Compromise%20Hide%20Your%20RDP_%20Password%20Spray%20Leads%20to%20Full%20CompromiseSOC%20Investigation%20Report%20%E2%80%94%20thseptbruce1.pdf)**
 - **[Threat Hunt Report: Family Member Compromise Leads to Unauthorized TOR Usage](https://github.com/thorntonbruce88/Threat-Hunt-Report-Family-Member-Compromise-Leads-to-Unauthorized-TOR-Usage/blob/main/Performing%20the%20Hunt.pdf)**
-- **[Scenario 1: Virtual Machine Brute Force Detection](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%201_%20Virtual%20Machine%20Brute%20Force%20Detection%209_17_2025.pdf)**
-- **[Scenario 2: PowerShell Suspicious Web Request](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%202_%20PowerShell%20Suspicious%20Web%20Request%209_19_2025.pdf)**
-- **[Scenario 3: Potential Impossible Travel](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%203_%20Potential%20Impossible%20Travel%209_20_2025.pdf)**
-- **[Scenario 4: Excessive Resource Creation Deletion](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%204_%20Excessive%20Resource%20Creation%20_%20Deletion.pdf)**
-- **[Scenario 5: Threat Hunting Lab Suspected Data Exfiltration/Employee](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Threat%20Hunting%20Lab%209_15_2025%20Scenario%203_%20Suspected%20Data%20Exfiltration%20Employee.pdf)**
-- **[Scenario 6: Threat Hunting Lab Devices Exposed to the Internet](https://github.com/thorntonbruce88/Threat-Hunting-Labs/blob/main/Scenario%206_%20Threat%20Hunting%20Lab%20Devices%20Exposed%20to%20the%20Internet.pdf)**
-
-
 
 ## 🍯 Honey Pot Creation
 
